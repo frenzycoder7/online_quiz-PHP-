@@ -1,0 +1,85 @@
+body
+{
+	background-color:#00FFFF;
+}
+
+#wrapper
+{
+	
+
+	background-color:#CCCCCC;
+	
+}
+#header
+{
+	height:100px;
+	background:#FF66FF;
+	text-shadow:#FFFF00;
+}
+#head_text
+{
+	margin-top: 20px;
+}
+#row
+{
+	
+	border:1px solid #0000FF;
+}
+#login
+{
+	height:100%;
+	background-color:#FFFFFF;
+}
+
+#form
+{
+	padding:20%;
+}
+/*for forgate user name button*/
+#forgetuname
+{
+	height:40px;
+	width:67%;
+	margin-top:10px;
+}
+#exampleInputEmail1
+{
+	text-align:left;
+}
+#exampleInputPassword1
+{
+	text-align:left;
+}
+#signup
+{
+	background-color:#FF0099;
+}
+#form2
+{
+	padding-top:20%;
+	padding-left:20%;
+	padding-right:20%;
+}
+#number_code
+{
+	border-radius:20px 20px 20px 20px;
+	height:40px;
+}
+#num
+{
+	width:100px;
+}
+#Signup
+{
+	color:#FFFFFF;
+}
+#footer
+{
+	margin-top:2px;
+	background-color:#000000;
+}
+#login_header
+{
+	height:70px;
+}
+
